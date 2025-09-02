@@ -1,0 +1,44 @@
+body{
+    background-color: #d2d2c1;
+    font: 16px Arial;
+}
+
+#principal{
+    width: 900px;
+    margin: 0 auto;
+}
+
+#principal #cabecalho img{
+    width: 900px;
+}
+
+#principal #cabecalho{
+    text-align: center;
+    padding: 5px 0;
+    background-color: burlywood;
+}
+
+.menu a{
+    font-size: large;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    color: #4b556a;
+    padding: 15px;
+    font-weight: 700;
+}
+
+.menu :hover{
+    color: white;
+}
+
+#conteudo{
+    background-color: #e8e8d9;
+    padding: 10px;
+}
+
+#rodape{
+    background-color: burlywood;
+    padding: 1px 0;
+    text-align: center;
+}
