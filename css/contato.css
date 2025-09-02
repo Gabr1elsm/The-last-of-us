@@ -3,3 +3,6 @@ body{
     font: 16px Arial;
 }
 
+#principal #cabecalho img{
+    width: 900px;
+}
