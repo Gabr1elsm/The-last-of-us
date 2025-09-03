@@ -19,12 +19,11 @@ body{
 }
 
 .menu a{
-    font-size: large;
+    font-size: medium;
     text-decoration: none;
     display: inline-block;
     padding: 10px 20px;
     color: #4b556a;
-    padding: 15px;
     font-weight: 700;
 }
 
