@@ -31,3 +31,8 @@ body{
 .menu :hover{
     color: white;
 }
+
+#contatos{
+    background-color: #e8e8d9;
+    padding: 10px;
+}
