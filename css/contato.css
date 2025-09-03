@@ -5,4 +5,16 @@ body{
 
 #principal #cabecalho img{
     width: 900px;
+    
+}
+
+#principal{
+    width: 900px;
+    margin: 0 auto;
+}
+
+#principal #cabecalho{
+    text-align: center;
+    padding: 5px 0;
+    background-color: burlywood;
 }
