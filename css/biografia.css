@@ -1,4 +1,4 @@
-.body{
+body{
     background-color: #d2d2c1;
     font: arial 16px;
 }
@@ -19,3 +19,15 @@
     background-color: burlywood;
 }
 
+.menu a{
+    font-size: medium;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: #4b556a;
+    font-weight: 700;
+    display: inline-block;
+}
+
+.menu :hover{
+    color: white;
+}
