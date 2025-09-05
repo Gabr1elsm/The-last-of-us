@@ -31,3 +31,14 @@ body{
 .menu :hover{
     color: white;
 }
+
+#autor{
+    width: 900px;
+    margin: 0 auto;
+}
+
+#autor #biografia #foto1 img{
+    width: 500px;
+    padding: 10px 0;
+    background-color: gray;
+}
