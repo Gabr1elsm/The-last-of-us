@@ -53,3 +53,9 @@ body{
     padding: 10px 0;
     background-color: gray;
 }
+
+#rodape{
+    background-color: burlywood;
+    text-align: center;
+    padding: 1px 0;
+}
