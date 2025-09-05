@@ -37,7 +37,18 @@ body{
     margin: 0 auto;
 }
 
+#biografia{
+    background-color: #e8e8d9;
+    padding: 10px;
+}
+
 #autor #biografia #foto1 img{
+    width: 500px;
+    padding: 10px 0;
+    background-color: gray;
+}
+
+#autor #biografia #foto2 img{
     width: 500px;
     padding: 10px 0;
     background-color: gray;
